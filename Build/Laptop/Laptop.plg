@@ -1,0 +1,78 @@
+--------------------Configuration: Laptop - Win32 Debug--------------------
+Begining build with project "D:\JA2\build\Laptop\Laptop.dsp", at root.
+Active configuration is Win32 (x86) Static Library (based on Win32 (x86) Static Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\TileEngine" /I "\ja2\Build\Utils" /I "\ja2\build\TacticalAI" /I "\ja2\build\Communications" /I "\ja2\build\Editor" /I "\ja2\build\Tactical" /I "\ja2\build\strategic" /D "_DEBUG" /D "JA2" /D "WIN32" /D "_WINDOWS" /FR"Debug/" /Fp"Debug/Laptop.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Browser Database Maker" with flags "/nologo /o"Debug/Laptop.bsc" "
+			"Library Manager" with flags "/nologo /out:"Debug\Laptop.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\TEMP\RSP3BD.tmp" with contents </nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\TileEngine" /I "\ja2\Build\Utils" /I "\ja2\build\TacticalAI" /I "\ja2\build\Communications" /I "\ja2\build\Editor" /I "\ja2\build\Tactical" /I "\ja2\build\strategic" /D "_DEBUG" /D "JA2" /D "WIN32" /D "_WINDOWS" /FR"Debug/" /Fp"Debug/Laptop.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"D:\JA2\build\Laptop\personnel.c"
+>
+Creating command line "cl.exe @C:\TEMP\RSP3BD.tmp" 
+Creating temp file "C:\TEMP\RSP3BE.tmp" with contents </nologo /out:"Debug\Laptop.lib" 
+.\Debug\aim.obj
+.\Debug\AimArchives.obj
+.\Debug\AimFacialIndex.obj
+.\Debug\AimHistory.obj
+.\Debug\AimLinks.obj
+.\Debug\AimMembers.obj
+.\Debug\AimPolicies.obj
+.\Debug\AimSort.obj
+.\Debug\BobbyR.obj
+.\Debug\BobbyRAmmo.obj
+.\Debug\BobbyRArmour.obj
+.\Debug\BobbyRGuns.obj
+.\Debug\BobbyRMailOrder.obj
+.\Debug\BobbyRMisc.obj
+.\Debug\BobbyRUsed.obj
+.\Debug\CharProfile.obj
+.\Debug\email.obj
+.\Debug\files.obj
+.\Debug\finances.obj
+".\Debug\florist Cards.obj"
+".\Debug\florist Gallery.obj"
+".\Debug\florist Order Form.obj"
+.\Debug\florist.obj
+.\Debug\funeral.obj
+.\Debug\history.obj
+".\Debug\IMP AboutUs.obj"
+".\Debug\IMP Attribute Entrance.obj"
+".\Debug\IMP Attribute Finish.obj"
+".\Debug\IMP Attribute Selection.obj"
+".\Debug\IMP Begin Screen.obj"
+".\Debug\IMP Compile Character.obj"
+".\Debug\IMP Confirm.obj"
+".\Debug\IMP Finish.obj"
+".\Debug\IMP HomePage.obj"
+".\Debug\IMP MainPage.obj"
+".\Debug\IMP Personality Entrance.obj"
+".\Debug\IMP Personality Finish.obj"
+".\Debug\IMP Personality Quiz.obj"
+".\Debug\IMP Portraits.obj"
+".\Debug\IMP Text System.obj"
+".\Debug\IMP Voices.obj"
+.\Debug\IMPVideoObjects.obj
+".\Debug\insurance Comments.obj"
+".\Debug\insurance Contract.obj"
+".\Debug\insurance Info.obj"
+.\Debug\insurance.obj
+.\Debug\laptop.obj
+".\Debug\mercs Account.obj"
+".\Debug\mercs Files.obj"
+".\Debug\mercs No Account.obj"
+.\Debug\mercs.obj
+.\Debug\personnel.obj
+.\Debug\sirtech.obj
+".\Debug\Store Inventory.obj">
+Creating command line "link.exe -lib @C:\TEMP\RSP3BE.tmp" 
+Compiling...
+personnel.c
+Creating library...
+
+
+
+Laptop.lib - 0 error(s), 0 warning(s)

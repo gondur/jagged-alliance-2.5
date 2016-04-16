@@ -1,0 +1,35 @@
+--------------------Configuration: TacticalAI - Win32 Debug--------------------
+Begining build with project "C:\JA2\BUILD\TacticalAI\TacticalAI.dsp", at root.
+Active configuration is Win32 (x86) Static Library (based on Win32 (x86) Static Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\Tactical" /I "\ja2\Build\Utils" /I "\ja2\Build\TileEngine" /I "\ja2\build\strategic" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "JA2" /FR"Debug/" /Fp"Debug/TacticalAI.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Browser Database Maker" with flags "/nologo /o"Debug/TacticalAI.bsc" "
+			"Library Manager" with flags "/nologo /out:"Debug\TacticalAI.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\TEMP\RSPBB.tmp" with contents </nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\Tactical" /I "\ja2\Build\Utils" /I "\ja2\Build\TileEngine" /I "\ja2\build\strategic" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "JA2" /FR"Debug/" /Fp"Debug/TacticalAI.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\JA2\BUILD\TacticalAI\FindLocations.c"
+>
+Creating command line "cl.exe @C:\TEMP\RSPBB.tmp" 
+Creating temp file "C:\TEMP\RSPBC.tmp" with contents </nologo /out:"Debug\TacticalAI.lib" 
+.\Debug\AIMain.obj
+.\Debug\AIUtils.obj
+.\Debug\Attacks.obj
+.\Debug\CreatureDecideAction.obj
+.\Debug\DecideAction.obj
+.\Debug\FindLocations.obj
+.\Debug\Knowledge.obj
+.\Debug\Movement.obj
+.\Debug\NPC.obj
+.\Debug\PanicButtons.obj
+.\Debug\Realtime.obj>
+Creating command line "link.exe -lib @C:\TEMP\RSPBC.tmp" 
+Compiling...
+FindLocations.c
+Creating library...
+
+
+
+TacticalAI.lib - 0 error(s), 0 warning(s)

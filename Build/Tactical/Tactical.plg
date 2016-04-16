@@ -1,0 +1,225 @@
+--------------------Configuration: Tactical - Win32 Debug--------------------
+Begining build with project "D:\JA2\build\Tactical\Tactical.dsp", at root.
+Active configuration is Win32 (x86) Static Library (based on Win32 (x86) Static Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MTd /W3 /GX /Z7 /Od /I "\ja2\build\TacticalAI" /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\TileEngine" /I "\ja2\Build\Utils" /I "\ja2\build\Communications" /I "\ja2\build\Editor" /I "\ja2\build\strategic" /I "\ja2\build\Laptop" /I "\ja2\build" /D "_DEBUG" /D "CALLBACKTIMER" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "PRECOMPILEDHEADERS" /FR"Debug/" /Fp"Debug/Tactical.pch" /YX"Tactical All.h" /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Browser Database Maker" with flags "/nologo /o"Debug/Tactical.bsc" "
+			"Library Manager" with flags "/nologo /out:"Debug\Tactical.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\TEMP\RSP1AF.tmp" with contents </nologo /MTd /W3 /GX /Z7 /Od /I "\ja2\build\TacticalAI" /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\TileEngine" /I "\ja2\Build\Utils" /I "\ja2\build\Communications" /I "\ja2\build\Editor" /I "\ja2\build\strategic" /I "\ja2\build\Laptop" /I "\ja2\build" /D "_DEBUG" /D "CALLBACKTIMER" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "PRECOMPILEDHEADERS" /FR"Debug/" /Fp"Debug/Tactical.pch" /YX"Tactical All.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"D:\JA2\build\Tactical\Air Raid.c"
+"D:\JA2\build\Tactical\Animation Cache.c"
+"D:\JA2\build\Tactical\Animation Control.c"
+"D:\JA2\build\Tactical\Animation Data.c"
+"D:\JA2\build\Tactical\Arms Dealer Init.c"
+"D:\JA2\build\Tactical\ArmsDealerInvInit.c"
+"D:\JA2\build\Tactical\Auto Bandage.c"
+"D:\JA2\build\Tactical\Boxing.c"
+"D:\JA2\build\Tactical\bullets.c"
+"D:\JA2\build\Tactical\Campaign.c"
+"D:\JA2\build\Tactical\Dialogue Control.c"
+"D:\JA2\build\Tactical\Drugs And Alcohol.c"
+"D:\JA2\build\Tactical\Faces.c"
+"D:\JA2\build\Tactical\fov.c"
+"D:\JA2\build\Tactical\GAP.C"
+"D:\JA2\build\Tactical\Handle Doors.c"
+"D:\JA2\build\Tactical\Handle Items.c"
+"D:\JA2\build\Tactical\Handle UI Plan.c"
+"D:\JA2\build\Tactical\Handle UI.c"
+"D:\JA2\build\Tactical\Interface Control.c"
+"D:\JA2\build\Tactical\Interface Cursors.c"
+"D:\JA2\build\Tactical\Interface Dialogue.c"
+"D:\JA2\build\Tactical\Interface Items.c"
+"D:\JA2\build\Tactical\Interface Panels.c"
+"D:\JA2\build\Tactical\Interface Utils.c"
+"D:\JA2\build\Tactical\Interface.c"
+"D:\JA2\build\Tactical\Inventory Choosing.c"
+"D:\JA2\build\Tactical\Items.c"
+"D:\JA2\build\Tactical\Keys.c"
+"D:\JA2\build\Tactical\LOS.c"
+"D:\JA2\build\Tactical\Map Information.c"
+"D:\JA2\build\Tactical\Merc Entering.c"
+"D:\JA2\build\Tactical\Merc Hiring.c"
+"D:\JA2\build\Tactical\Militia Control.c"
+"D:\JA2\build\Tactical\Morale.c"
+"D:\JA2\build\Tactical\opplist.c"
+"D:\JA2\build\Tactical\Overhead.c"
+"D:\JA2\build\Tactical\PATHAI.C"
+"D:\JA2\build\Tactical\Points.c"
+"D:\JA2\build\Tactical\QARRAY.C"
+"D:\JA2\build\Tactical\Real Time Input.c"
+"D:\JA2\build\Tactical\Rotting Corpses.c"
+"D:\JA2\build\Tactical\ShopKeeper Interface.c"
+"D:\JA2\build\Tactical\SkillCheck.c"
+"D:\JA2\build\Tactical\Soldier Add.c"
+"D:\JA2\build\Tactical\Soldier Ani.c"
+"D:\JA2\build\Tactical\Soldier Control.c"
+"D:\JA2\build\Tactical\Soldier Create.c"
+"D:\JA2\build\Tactical\Soldier Find.c"
+"D:\JA2\build\Tactical\Soldier Init List.c"
+"D:\JA2\build\Tactical\Soldier Profile.c"
+"D:\JA2\build\Tactical\Soldier Tile.c"
+"D:\JA2\build\Tactical\Spread Burst.c"
+"D:\JA2\build\Tactical\Squads.c"
+"D:\JA2\build\Tactical\Strategic Exit GUI.c"
+"D:\JA2\build\Tactical\Structure Wrap.c"
+"D:\JA2\build\Tactical\Tactical Save.c"
+"D:\JA2\build\Tactical\Tactical Turns.c"
+"D:\JA2\build\Tactical\TeamTurns.c"
+"D:\JA2\build\Tactical\Turn Based Input.c"
+"D:\JA2\build\Tactical\UI Cursors.c"
+"D:\JA2\build\Tactical\Vehicles.c"
+"D:\JA2\build\Tactical\Weapons.c"
+"D:\JA2\build\Tactical\World Items.c"
+>
+Creating command line "cl.exe @C:\TEMP\RSP1AF.tmp" 
+Creating temp file "C:\TEMP\RSP1B0.tmp" with contents </nologo /out:"Debug\Tactical.lib" 
+".\Debug\Air Raid.obj"
+".\Debug\Animation Cache.obj"
+".\Debug\Animation Control.obj"
+".\Debug\Animation Data.obj"
+".\Debug\Arms Dealer Init.obj"
+.\Debug\ArmsDealerInvInit.obj
+".\Debug\Auto Bandage.obj"
+.\Debug\Boxing.obj
+.\Debug\bullets.obj
+.\Debug\Campaign.obj
+".\Debug\Dialogue Control.obj"
+".\Debug\Drugs And Alcohol.obj"
+.\Debug\Faces.obj
+.\Debug\fov.obj
+.\Debug\GAP.OBJ
+".\Debug\Handle Doors.obj"
+".\Debug\Handle Items.obj"
+".\Debug\Handle UI Plan.obj"
+".\Debug\Handle UI.obj"
+".\Debug\Interface Control.obj"
+".\Debug\Interface Cursors.obj"
+".\Debug\Interface Dialogue.obj"
+".\Debug\Interface Items.obj"
+".\Debug\Interface Panels.obj"
+".\Debug\Interface Utils.obj"
+.\Debug\Interface.obj
+".\Debug\Inventory Choosing.obj"
+.\Debug\Items.obj
+.\Debug\Keys.obj
+.\Debug\LOS.obj
+".\Debug\Map Information.obj"
+".\Debug\Merc Entering.obj"
+".\Debug\Merc Hiring.obj"
+".\Debug\Militia Control.obj"
+.\Debug\Morale.obj
+.\Debug\opplist.obj
+.\Debug\Overhead.obj
+.\Debug\PATHAI.OBJ
+.\Debug\Points.obj
+.\Debug\QARRAY.OBJ
+".\Debug\Real Time Input.obj"
+".\Debug\Rotting Corpses.obj"
+".\Debug\ShopKeeper Interface.obj"
+.\Debug\SkillCheck.obj
+".\Debug\Soldier Add.obj"
+".\Debug\Soldier Ani.obj"
+".\Debug\Soldier Control.obj"
+".\Debug\Soldier Create.obj"
+".\Debug\Soldier Find.obj"
+".\Debug\Soldier Init List.obj"
+".\Debug\Soldier Profile.obj"
+".\Debug\Soldier Tile.obj"
+".\Debug\Spread Burst.obj"
+.\Debug\Squads.obj
+".\Debug\Strategic Exit GUI.obj"
+".\Debug\Structure Wrap.obj"
+".\Debug\Tactical Save.obj"
+".\Debug\Tactical Turns.obj"
+.\Debug\TeamTurns.obj
+".\Debug\Turn Based Input.obj"
+".\Debug\UI Cursors.obj"
+.\Debug\Vehicles.obj
+.\Debug\Weapons.obj
+".\Debug\World Items.obj">
+Creating command line "link.exe -lib @C:\TEMP\RSP1B0.tmp" 
+Compiling...
+Air Raid.c
+Animation Cache.c
+Animation Control.c
+Animation Data.c
+Arms Dealer Init.c
+ArmsDealerInvInit.c
+Auto Bandage.c
+Boxing.c
+bullets.c
+Campaign.c
+Dialogue Control.c
+D:\JA2\build\Tactical\Dialogue Control.c(1260) : warning C4013: 'DisplayTextForMercFaceVideoPopUp' undefined; assuming extern returning int
+Drugs And Alcohol.c
+Faces.c
+fov.c
+GAP.C
+Handle Doors.c
+Handle Items.c
+Handle UI Plan.c
+Handle UI.c
+D:\JA2\build\Tactical\Handle UI.c(3056) : warning C4013: 'InternalReceivingSoldierCancelServices' undefined; assuming extern returning int
+D:\JA2\build\Tactical\Handle UI.c(3057) : warning C4013: 'InternalGivingSoldierCancelServices' undefined; assuming extern returning int
+Interface Control.c
+Interface Cursors.c
+Interface Dialogue.c
+Interface Items.c
+Interface Panels.c
+D:\JA2\build\Tactical\Interface Panels.c(2780) : warning C4013: 'CycleVisibleEnemies' undefined; assuming extern returning int
+D:\JA2\build\Tactical\Interface Panels.c(2784) : warning C4101: 'pVehicle' : unreferenced local variable
+Interface Utils.c
+Interface.c
+Inventory Choosing.c
+Items.c
+D:\JA2\build\Tactical\Items.c(603) : error C2371: 'EXPLOSIVE' : redefinition; different basic types
+D:\JA2\build\Tactical\Items.c(603) : error C2086: 'EXPLOSIVE' : redefinition
+Keys.c
+LOS.c
+Map Information.c
+Merc Entering.c
+Merc Hiring.c
+Militia Control.c
+Morale.c
+opplist.c
+Overhead.c
+PATHAI.C
+Points.c
+QARRAY.C
+Real Time Input.c
+Rotting Corpses.c
+ShopKeeper Interface.c
+SkillCheck.c
+Soldier Add.c
+Soldier Ani.c
+Soldier Control.c
+D:\JA2\build\Tactical\Soldier Control.c(687) : warning C4101: 'uiMercFlags' : unreferenced local variable
+D:\JA2\build\Tactical\Soldier Control.c(7245) : warning C4101: 'uiMercFlags' : unreferenced local variable
+D:\JA2\build\Tactical\Soldier Control.c(7356) : warning C4101: 'uiMercFlags' : unreferenced local variable
+D:\JA2\build\Tactical\Soldier Control.c(7465) : warning C4101: 'uiMercFlags' : unreferenced local variable
+Soldier Create.c
+Soldier Find.c
+Soldier Init List.c
+Soldier Profile.c
+Soldier Tile.c
+Spread Burst.c
+Squads.c
+Strategic Exit GUI.c
+Structure Wrap.c
+Tactical Save.c
+Tactical Turns.c
+TeamTurns.c
+Turn Based Input.c
+UI Cursors.c
+Vehicles.c
+Weapons.c
+World Items.c
+Error executing cl.exe.
+
+
+
+Tactical.lib - 2 error(s), 9 warning(s)

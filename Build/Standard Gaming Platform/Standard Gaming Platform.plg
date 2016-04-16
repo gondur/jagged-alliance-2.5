@@ -1,0 +1,145 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Standard Gaming Platform - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP385.tmp" with contents
+[
+/nologo /MTd /W3 /GX /Zi /Od /I "\ja25\build" /I "\ja25\build\TileEngine" /I "\ja25\build\Tactical" /I "\ja25\build\Utils" /I "\ja25\build\strategic" /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "JA2_PRECOMPILED_HEADERS" /D "NO_ZLIB_COMPRESSION" /D "_VTUNE_PROFILING" /Fr".\Debug/" /Fp".\Debug/Standard Gaming Platform.pch" /YX"JA2 SGP ALL.H" /Fo".\Debug/" /Fd".\Debug/" /FD /c 
+"C:\Ja25\Build\STANDARD GAMING PLATFORM\Button Sound Control.c"
+"C:\Ja25\Build\Standard Gaming Platform\Button System.c"
+"C:\Ja25\Build\Standard Gaming Platform\Container.c"
+"C:\Ja25\Build\Standard Gaming Platform\Cursor Control.c"
+"C:\Ja25\Build\Standard Gaming Platform\DbMan.c"
+"C:\Ja25\Build\Standard Gaming Platform\DEBUG.C"
+"C:\Ja25\Build\Standard Gaming Platform\DirectDraw Calls.c"
+"C:\Ja25\Build\Standard Gaming Platform\DirectX Common.c"
+"C:\Ja25\Build\Standard Gaming Platform\English.c"
+"C:\JA25\Build\Standard Gaming Platform\ExceptionHandling.cpp"
+"C:\Ja25\Build\Standard Gaming Platform\FileMan.c"
+"C:\Ja25\Build\Standard Gaming Platform\Font.c"
+"C:\Ja25\Build\Standard Gaming Platform\himage.c"
+"C:\Ja25\Build\Standard Gaming Platform\impTGA.c"
+"C:\Ja25\Build\Standard Gaming Platform\input.c"
+"C:\Ja25\Build\Standard Gaming Platform\Install.c"
+"C:\Ja25\Build\Standard Gaming Platform\LibraryDataBase.c"
+"C:\Ja25\Build\Standard Gaming Platform\line.c"
+"C:\Ja25\Build\Standard Gaming Platform\mousesystem.c"
+"C:\Ja25\Build\Standard Gaming Platform\Mutex Manager.c"
+"C:\Ja25\Build\Standard Gaming Platform\PCX.C"
+"C:\Ja25\Build\Standard Gaming Platform\Random.c"
+"C:\Ja25\Build\Standard Gaming Platform\RegInst.c"
+"C:\Ja25\Build\Standard Gaming Platform\sgp.c"
+"C:\Ja25\Build\Standard Gaming Platform\shading.c"
+"C:\Ja25\Build\Standard Gaming Platform\soundman.c"
+"C:\Ja25\Build\Standard Gaming Platform\STCI.c"
+"C:\Ja25\Build\Standard Gaming Platform\timer.c"
+"C:\Ja25\Build\Standard Gaming Platform\video.c"
+"C:\Ja25\Build\Standard Gaming Platform\vobject.c"
+"C:\Ja25\Build\Standard Gaming Platform\vobject_blitters.c"
+"C:\Ja25\Build\Standard Gaming Platform\vsurface.c"
+"C:\JA25\Build\Standard Gaming Platform\WinFont.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP385.tmp" 
+Creating temporary file "C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP386.tmp" with contents
+[
+/nologo /MTd /W3 /GX /Zi /Od /I "\ja25\build" /I "\ja25\build\TileEngine" /I "\ja25\build\Tactical" /I "\ja25\build\Utils" /I "\ja25\build\strategic" /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "JA2_PRECOMPILED_HEADERS" /D "NO_ZLIB_COMPRESSION" /D "_VTUNE_PROFILING" /D "_MEMMAN_DEBUG" /Fr".\Debug/" /Fp".\Debug/Standard Gaming Platform.pch" /YX"JA2 SGP ALL.H" /Fo".\Debug/" /Fd".\Debug/" /FD /c 
+"C:\Ja25\Build\Standard Gaming Platform\MemMan.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP386.tmp" 
+Creating temporary file "C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP387.tmp" with contents
+[
+/nologo /out:".\Debug\Standard Gaming Platform.lib" 
+".\Debug\Button Sound Control.obj"
+".\Debug\Button System.obj"
+".\Debug\Container.obj"
+".\Debug\Cursor Control.obj"
+".\Debug\DbMan.obj"
+".\Debug\DEBUG.OBJ"
+".\Debug\DirectDraw Calls.obj"
+".\Debug\DirectX Common.obj"
+".\Debug\English.obj"
+".\Debug\ExceptionHandling.obj"
+".\Debug\FileMan.obj"
+".\Debug\Font.obj"
+".\Debug\himage.obj"
+".\Debug\impTGA.obj"
+".\Debug\input.obj"
+".\Debug\Install.obj"
+".\Debug\LibraryDataBase.obj"
+".\Debug\line.obj"
+".\Debug\MemMan.obj"
+".\Debug\mousesystem.obj"
+".\Debug\Mutex Manager.obj"
+".\Debug\PCX.OBJ"
+".\Debug\Random.obj"
+".\Debug\RegInst.obj"
+".\Debug\sgp.obj"
+".\Debug\shading.obj"
+".\Debug\soundman.obj"
+".\Debug\STCI.obj"
+".\Debug\timer.obj"
+".\Debug\video.obj"
+".\Debug\vobject.obj"
+".\Debug\vobject_blitters.obj"
+".\Debug\vsurface.obj"
+".\Debug\WinFont.obj"
+".\ddraw.lib"
+".\MSS32.LIB"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP387.tmp"
+<h3>Output Window</h3>
+Compiling...
+Button Sound Control.c
+GENERATED PCH FOR JA2 SGP PROJECT.
+Button System.c
+Container.c
+Cursor Control.c
+DbMan.c
+DEBUG.C
+DirectDraw Calls.c
+DirectX Common.c
+GENERATED PCH FOR JA2 SGP PROJECT.
+English.c
+GENERATED PCH FOR JA2 SGP PROJECT.
+ExceptionHandling.cpp
+GENERATED PCH FOR JA2 SGP PROJECT.
+FileMan.c
+GENERATED PCH FOR JA2 SGP PROJECT.
+Font.c
+himage.c
+impTGA.c
+input.c
+Install.c
+LibraryDataBase.c
+line.c
+mousesystem.c
+Mutex Manager.c
+PCX.C
+Random.c
+RegInst.c
+sgp.c
+shading.c
+soundman.c
+STCI.c
+timer.c
+video.c
+vobject.c
+vobject_blitters.c
+vsurface.c
+WinFont.c
+Compiling...
+MemMan.c
+Creating library...
+MSS32.LIB(mss32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in ddraw.lib(DDRAW.dll); second definition ignored
+
+
+
+<h3>Results</h3>
+Standard Gaming Platform.lib - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

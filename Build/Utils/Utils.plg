@@ -1,0 +1,66 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Utils - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP477.tmp" with contents
+[
+/nologo /MTd /W3 /GX /Zi /Od /I "\ja2\build\communications" /I "..\Standard Gaming Platform" /I "\ja25\Build" /I "\ja25\Build\Tactical" /I "\ja25\Build\TileEngine" /I "\ja25\build\strategic" /I "\ja25\build\editor" /D "_DEBUG" /D "CALLBACKTIMER" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "PRECOMPILEDHEADERS" /D "_VTUNE_PROFILING" /Fr"Debug/" /Fp"Debug/Utils.pch" /YX"Utils All.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\JA25\Build\Utils\Cinematics Bink.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP477.tmp" 
+Creating temporary file "C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP478.tmp" with contents
+[
+/nologo /out:"Debug\Utils.lib" 
+.\Debug\_DutchText.obj
+.\Debug\_EditorEnglishText.obj
+.\Debug\_EditorGermanText.obj
+.\Debug\_EnglishText.obj
+.\Debug\_GermanText.obj
+.\Debug\_Ja25EnglishText.obj
+.\Debug\_Ja25GermanText.obj
+.\Debug\_PolishText.obj
+".\Debug\Animated ProgressBar.obj"
+".\Debug\Cinematics Bink.obj"
+.\Debug\Cinematics.obj
+.\Debug\Cursors.obj
+".\Debug\Debug Control.obj"
+.\Debug\dsutil.obj
+".\Debug\Encrypted File.obj"
+".\Debug\Event Manager.obj"
+".\Debug\Event Pump.obj"
+".\Debug\Font Control.obj"
+.\Debug\MapUtility.obj
+.\Debug\MercTextBox.obj
+.\Debug\message.obj
+".\Debug\Multi Language Graphic Utils.obj"
+".\Debug\Multilingual Text Code Generator.obj"
+".\Debug\Music Control.obj"
+.\Debug\PopUpBox.obj
+".\Debug\Quantize Wrap.obj"
+.\Debug\Quantize.obj
+.\Debug\Slider.obj
+".\Debug\Sound Control.obj"
+.\Debug\STIConvert.obj
+".\Debug\Text Input.obj"
+".\Debug\Text Utils.obj"
+".\Debug\Timer Control.obj"
+.\Debug\Utilities.obj
+.\Debug\WordWrap.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\chrisc\LOCALS~1\Temp\RSP478.tmp"
+<h3>Output Window</h3>
+Compiling...
+Cinematics Bink.c
+Creating library...
+
+
+
+<h3>Results</h3>
+Utils.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

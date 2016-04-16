@@ -1,0 +1,59 @@
+--------------------Configuration: TileEngine - Win32 Debug Demo--------------------
+Begining build with project "F:\JA2\BUILD\TileEngine\TileEngine.dsp", at root.
+Active configuration is Win32 (x86) Static Library (based on Win32 (x86) Static Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\Tactical" /I "\ja2\Build\Utils" /I "\ja2\build\TacticalAI" /I "\ja2\build\Editor" /I "\ja2\build\strategic" /I "\ja2\build\Laptop" /D "CALLBACKTIMER" /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "JA2DEMO" /FR"Debug Demo/" /Fp"Debug Demo/TileEngine.pch" /YX /Fo"Debug Demo/" /Fd"Debug Demo/" /FD /c "
+			"Browser Database Maker" with flags "/nologo /o"Debug Demo/TileEngine.bsc" "
+			"Library Manager" with flags "/nologo /out:"Debug Demo\TileEngine.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\TEMP\RSPC1.tmp" with contents </nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\Tactical" /I "\ja2\Build\Utils" /I "\ja2\build\TacticalAI" /I "\ja2\build\Editor" /I "\ja2\build\strategic" /I "\ja2\build\Laptop" /D "CALLBACKTIMER" /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "JA2" /D "JA2DEMO" /FR"Debug Demo/" /Fp"Debug Demo/TileEngine.pch" /YX /Fo"Debug Demo/" /Fd"Debug Demo/" /FD /c 
+"F:\JA2\BUILD\TileEngine\Buildings.c"
+>
+Creating command line "cl.exe @C:\TEMP\RSPC1.tmp" 
+Creating temp file "C:\TEMP\RSPC2.tmp" with contents </nologo /out:"Debug Demo\TileEngine.lib" 
+".\Debug Demo\Ambient Control.obj"
+".\Debug Demo\environment.obj"
+".\Debug Demo\Exit Grids.obj"
+".\Debug Demo\Explosion Control.obj"
+".\Debug Demo\Fog Of War.obj"
+".\Debug Demo\Interactive Tiles.obj"
+".\Debug Demo\Isometric Utils.obj"
+".\Debug Demo\LightEffects.obj"
+".\Debug Demo\lighting.obj"
+".\Debug Demo\Map Edgepoints.obj"
+".\Debug Demo\overhead map.obj"
+".\Debug Demo\phys math.obj"
+".\Debug Demo\physics.obj"
+".\Debug Demo\pits.obj"
+".\Debug Demo\Radar Screen.obj"
+".\Debug Demo\Render Dirty.obj"
+".\Debug Demo\Render Fun.obj"
+".\Debug Demo\renderworld.obj"
+".\Debug Demo\SaveLoadMap.obj"
+".\Debug Demo\Shade Table Util.obj"
+".\Debug Demo\Simple Render Utils.obj"
+".\Debug Demo\Smell.obj"
+".\Debug Demo\SmokeEffects.obj"
+".\Debug Demo\structure.obj"
+".\Debug Demo\sysutil.obj"
+".\Debug Demo\Tactical Placement GUI.obj"
+".\Debug Demo\Tile Animation.obj"
+".\Debug Demo\Tile Cache.obj"
+".\Debug Demo\Tile Surface.obj"
+".\Debug Demo\TileDat.obj"
+".\Debug Demo\tiledef.obj"
+".\Debug Demo\WorldDat.obj"
+".\Debug Demo\worlddef.obj"
+".\Debug Demo\worldman.obj"
+".\Debug Demo\Buildings.obj">
+Creating command line "link.exe -lib @C:\TEMP\RSPC2.tmp" 
+Compiling...
+Buildings.c
+Creating library...
+
+
+
+TileEngine.lib - 0 error(s), 0 warning(s)

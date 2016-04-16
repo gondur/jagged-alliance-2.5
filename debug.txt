@@ -1,0 +1,1093 @@
+{ 88095546 } Initializing Memory Manager [Line 423 in .\sgp.c]
+{ 88095546 } Initializing Mutex Manager [Line 432 in .\sgp.c]
+{ 88095546 } Initializing File Manager [Line 441 in .\sgp.c]
+{ 88095546 } Initializing Containers Manager [Line 449 in .\sgp.c]
+{ 88095546 } Initializing Input Manager [Line 452 in .\sgp.c]
+{ 88095562 } Initializing Video Manager [Line 460 in .\sgp.c]
+{ 88095625 } Initializing Video Object Manager [Line 469 in .\sgp.c]
+{ 88095625 } Initializing Video Surface Manager [Line 477 in .\sgp.c]
+{ 88095734 } Warning in InitializeFileDatabase( ): Library Id #13 (Music.slf) is to be loaded but cannot be found.
+ [Line 154 in .\LibraryDataBase.c]
+{ 88095843 } Warning in InitializeFileDatabase( ): Library Id #21 (Intro.slf) is to be loaded but cannot be found.
+ [Line 154 in .\LibraryDataBase.c]
+{ 88095953 } Initializing the Font Manager [Line 500 in .\sgp.c]
+{ 88095953 } Initializing Sound Manager [Line 510 in .\sgp.c]
+{ 88096812 } Initializing Random [Line 520 in .\sgp.c]
+{ 88096828 } Initializing Game Manager [Line 524 in .\sgp.c]
+Reg
+Reg JA2 Debug
+Version Label: v.1.01
+Version #:     Build 02.12.01
+Tracking #:    Y
+{ 88096921 } Running Game [Line 715 in .\sgp.c]
+World Screen Width 3160 Height 1540
+Music New Mode -1 2
+StartMusicBasedOnMode() -1 2
+TILESETS\0\l_cliff.JSD
+TILESETS\0\drum_01.JSD
+TILESETS\0\drum_02.JSD
+TILESETS\0\dump.JSD
+TILESETS\0\mdrock.JSD
+TILESETS\0\montbush.JSD
+TILESETS\0\weeds_1.JSD
+TILESETS\23\chfurn1.JSD
+TILESETS\0\nogobush.JSD
+TILESETS\23\gtree2.JSD
+TILESETS\23\ctree2.JSD
+TILESETS\0\tree2_t.JSD
+TILESETS\0\tree2_t.JSD
+TILESETS\23\build_24.JSD
+TILESETS\23\build37c.JSD
+TILESETS\23\build_11.JSD
+TILESETS\23\build_17.JSD
+TILESETS\0\door1.JSD
+TILESETS\23\door_02.JSD
+TILESETS\23\door_03.JSD
+TILESETS\23\door_10.JSD
+TILESETS\0\walldec1.JSD
+TILESETS\0\walldec2.JSD
+TILESETS\0\walldec3.JSD
+TILESETS\0\walldec3.JSD
+TILESETS\0\w_dec01.JSD
+TILESETS\0\w_dec02.JSD
+TILESETS\0\w_dec03.JSD
+TILESETS\0\w_dec04.JSD
+TILESETS\0\flat_r1.JSD
+TILESETS\0\flat_r2.JSD
+TILESETS\0\flat_r3.JSD
+TILESETS\0\flat_r4.JSD
+TILESETS\23\slant_07.JSD
+TILESETS\23\slant_13.JSD
+TILESETS\0\furn_6.JSD
+TILESETS\0\furn_7.JSD
+TILESETS\0\furn_8.JSD
+TILESETS\0\furn_9.JSD
+TILESETS\23\basefrn1.JSD
+TILESETS\0\dirtroad.JSD
+TILESETS\0\lakeobj.JSD
+TILESETS\0\oldfence.JSD
+TILESETS\0\truck.JSD
+TILESETS\0\truck.JSD
+TILESETS\0\damgdeb.JSD
+TILESETS\0\deb_02.JSD
+TILESETS\0\f_weed.JSD
+TILESETS\23\furn_mix.JSD
+TILESETS\0\drum_01.JSD
+TILESETS\0\drum_01.JSD
+TILESETS\23\lawless.JSD
+TILESETS\23\lawless2.JSD
+TILESETS\23\lawles3b.JSD
+TILESETS\23\lawless4.JSD
+TILESETS\0\flat_r4.JSD
+TILESETS\0\flat_r4.JSD
+TILESETS\0\w_dec01.JSD
+TILESETS\23\w_dec05.JSD
+TILESETS\23\a-sign3.JSD
+TILESETS\23\w_dec06.JSD
+TILESETS\0\switches.JSD
+TILESETS\0\slant_01.JSD
+TILESETS\0\flat_r4.JSD
+TILESETS\0\flat_r4.JSD
+TILESETS\0\r_key.JSD
+Tileset 23 has no callback function for movement costs. Using default.
+Type: TEXTURE1 Size: 35 Index: 0
+Type: TEXTURE2 Size: 35 Index: 35
+Type: TEXTURE3 Size: 35 Index: 70
+Type: TEXTURE4 Size: 35 Index: 105
+Type: TEXTURE5 Size: 35 Index: 140
+Type: TEXTURE6 Size: 37 Index: 175
+Type: TEXTURE7 Size: 49 Index: 212
+Type: WATER1 Size: 50 Index: 261
+Type: DEEP WATER Size: 37 Index: 311
+Type: FIRSTCLIFFHANG Size: 17 Index: 348
+Type: FIRSTCLIFF Size: 17 Index: 365
+Type: FIRSTCLIFFSHADOW Size: 17 Index: 382
+Type: OSTRUCT1 Size: 12 Index: 399
+Type: OSTRUCT2 Size: 12 Index: 411
+Type: OSTRUCT3 Size: 12 Index: 423
+Type: OSTRUCT4 Size: 12 Index: 435
+Type: OSTRUCT5 Size: 12 Index: 447
+Type: OSTRUCT6 Size: 12 Index: 459
+Type: OSTRUCT7 Size: 12 Index: 471
+Type: OSTRUCT8 Size: 12 Index: 483
+Type: OFSTRUCT1 Size: 12 Index: 495
+Type: OFSTRUCT2 Size: 12 Index: 507
+Type: PLACEHOLDER1 Size: 2 Index: 519
+Type: PLACEHOLDER2 Size: 2 Index: 521
+Type: SHADOW1 Size: 12 Index: 523
+Type: SHADOW2 Size: 12 Index: 535
+Type: SHADOW3 Size: 12 Index: 547
+Type: SHADOW4 Size: 12 Index: 559
+Type: SHADOW5 Size: 12 Index: 571
+Type: SHADOW6 Size: 12 Index: 583
+Type: SHADOW7 Size: 12 Index: 595
+Type: SHADOW8 Size: 12 Index: 607
+Type: FSHADOW1 Size: 12 Index: 619
+Type: FSHADOW2 Size: 12 Index: 631
+Type: PLACEHOLDER3 Size: 2 Index: 643
+Type: PLACEHOLDER4 Size: 2 Index: 645
+Type: WALL1 Size: 65 Index: 647
+Type: WALL2 Size: 65 Index: 712
+Type: WALL3 Size: 65 Index: 777
+Type: WALL4 Size: 65 Index: 842
+Type: DOOR1 Size: 20 Index: 907
+Type: DOOR2 Size: 20 Index: 927
+Type: DOOR3 Size: 20 Index: 947
+Type: DOOR4 Size: 20 Index: 967
+Type: DOORSH1 Size: 20 Index: 987
+Type: DOORSH2 Size: 20 Index: 1007
+Type: DOORSH3 Size: 20 Index: 1027
+Type: DOORSH4 Size: 20 Index: 1047
+Type: SLANTFLATPEICE Size: 2 Index: 1067
+Type: ANOTHERDEBRIS Size: 10 Index: 1069
+Type: ROADPIECES Size: 400 Index: 1079
+Type: WINDOW4 Size: 2 Index: 1479
+Type: DECORATIONS1 Size: 10 Index: 1481
+Type: DECORATIONS2 Size: 10 Index: 1491
+Type: DECORATIONS3 Size: 10 Index: 1501
+Type: DECORATIONS4 Size: 10 Index: 1511
+Type: WALLDECAL1 Size: 10 Index: 1521
+Type: WALLDECAL2 Size: 10 Index: 1531
+Type: WALLDECAL3 Size: 10 Index: 1541
+Type: WALLDECAL4 Size: 10 Index: 1551
+Type: FLOOR1 Size: 8 Index: 1561
+Type: FLOOR2 Size: 8 Index: 1569
+Type: FLOOR3 Size: 8 Index: 1577
+Type: FLOOR4 Size: 8 Index: 1585
+Type: ROOF1 Size: 14 Index: 1593
+Type: ROOF2 Size: 14 Index: 1607
+Type: ROOF3 Size: 14 Index: 1621
+Type: ROOF4 Size: 14 Index: 1635
+Type: SROOF1 Size: 20 Index: 1649
+Type: SROOF2 Size: 20 Index: 1669
+Type: ONROOF1 Size: 12 Index: 1689
+Type: ONROOF2 Size: 12 Index: 1701
+Type: MOCKF1 Size: 1 Index: 1713
+Type: ISTRUCT1 Size: 24 Index: 1714
+Type: ISTRUCT2 Size: 24 Index: 1738
+Type: ISTRUCT3 Size: 24 Index: 1762
+Type: ISTRUCT4 Size: 24 Index: 1786
+Type: FIRSTCISTRCUT Size: 24 Index: 1810
+Type: FIRSTROAD Size: 35 Index: 1834
+Type: ROCKS Size: 10 Index: 1869
+Type: WOOD Size: 10 Index: 1879
+Type: WEEDS Size: 10 Index: 1889
+Type: GRASS Size: 10 Index: 1899
+Type: SAND Size: 10 Index: 1909
+Type: MISC Size: 10 Index: 1919
+Type: ANIOSTRUCT Size: 20 Index: 1929
+Type: FENCESTRUCT Size: 22 Index: 1949
+Type: FENCESHADOW Size: 22 Index: 1971
+Type: FIRSTVEHICLE Size: 12 Index: 1993
+Type: SECONDVEHICLE Size: 12 Index: 2005
+Type: FIRSTVEHICLESHADOW Size: 12 Index: 2017
+Type: SECONDVEHICLESHADOW Size: 12 Index: 2029
+Type: MISC2 Size: 10 Index: 2041
+Type: FIRSTDEBRISSTRUCT Size: 10 Index: 2051
+Type: SECONDDEBRISSTRUCT Size: 10 Index: 2061
+Type: FIRSTDEBRISSTRUCTSHADOW Size: 10 Index: 2071
+Type: SECONDDEBRISSTRUCTSHADOW Size: 10 Index: 2081
+Type: NINTHOSTRUCT Size: 12 Index: 2091
+Type: TENTHOSTRUCT Size: 12 Index: 2103
+Type: NINTHOSTRUCTSHADOW Size: 12 Index: 2115
+Type: TENTHOSTRUCTSHADOW Size: 12 Index: 2127
+Type: FIRSTEXPLODEDEBRIS Size: 40 Index: 2139
+Type: SECONDEXPLODEDEBRIS Size: 40 Index: 2179
+Type: FIRSTLARGEEXPLODEDEBRIS Size: 10 Index: 2219
+Type: SECONDLARGEEXPLODEDEBRIS Size: 10 Index: 2229
+Type: FIRSTLARGEEXPLODEDEBRISSHADOW Size: 10 Index: 2239
+Type: SECONDLARGEEXPLODEDEBRISSHADOW Size: 10 Index: 2249
+Type: FIFTHISTRUCT Size: 24 Index: 2259
+Type: SIXTHISTRUCT Size: 24 Index: 2283
+Type: SEVENTHISTRUCT Size: 24 Index: 2307
+Type: EIGHTISTRUCT Size: 24 Index: 2331
+Type: FIRSTHIGHROOF Size: 15 Index: 2355
+Type: SECONDHIGHROOF Size: 15 Index: 2370
+Type: WALLDECAL5 Size: 10 Index: 2385
+Type: WALLDECAL6 Size: 10 Index: 2395
+Type: WALLDECAL7 Size: 10 Index: 2405
+Type: WALLDECAL8 Size: 10 Index: 2415
+Type: HUMANBLOOD Size: 16 Index: 2425
+Type: CREATUREBLOOD Size: 16 Index: 2441
+Type: FIRSTSWITCHES Size: 21 Index: 2457
+Type: REVEALEDSLANTROOF Size: 8 Index: 2478
+Type: 1stREVEALEDHIGHROOF Size: 11 Index: 2486
+Type: 2ndREVEALEDHIGHROOF Size: 11 Index: 2497
+Type: GUNS Size: 60 Index: 2508
+Type: ITEMS Size: 149 Index: 2568
+Type: ITEMS2 Size: 45 Index: 2717
+Type: GLASSSHATTER Size: 20 Index: 2762
+Type: ITEMS3 Size: 16 Index: 2782
+Type: BODYBLOW Size: 15 Index: 2798
+Type: EXITTEXTURE Size: 35 Index: 2813
+Type: FOOTPRINTS Size: 80 Index: 2848
+Type: POINTERS Size: 24 Index: 2928
+Type: POINTERS2 Size: 8 Index: 2952
+Type: POINTERS3 Size: 3 Index: 2960
+Type: GOODRUN Size: 11 Index: 2963
+Type: GOODWALK Size: 11 Index: 2974
+Type: GOODSWAT Size: 11 Index: 2985
+Type: GOODSCOOT Size: 11 Index: 2996
+Type: CONFIRMMOVE Size: 11 Index: 3007
+Type: VEHICLEMOVE Size: 10 Index: 3018
+Type: ACTIONTWO Size: 11 Index: 3028
+Type: BADMARKER Size: 11 Index: 3039
+Type: GRING Size: 10 Index: 3050
+Type: ROTATINGKEY Size: 8 Index: 3060
+Type: SELRING Size: 10 Index: 3068
+Type: SPECIAL Size: 6 Index: 3078
+Type: BULLET Size: 2 Index: 3084
+Type: MISS1 Size: 5 Index: 3086
+Type: MISS2 Size: 5 Index: 3091
+Type: MISS3 Size: 14 Index: 3096
+Type: WIREFRAME Size: 15 Index: 3110
+Database Sizes: 3125 vs 3125
+Database Types: 151
+Database Item Mem:		137500
+Database Item Total Mem:		9237615
+World Screen Width 3160 Height 1540
+Setting attack busy count to 0 from load
+Music New Mode -1 5
+StartMusicBasedOnMode() -1 5
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+Soldier 7: Get new path
+Handling New gridNo for 7: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (7 at 15293) 4 10
+Deduct Points (7 at 15452) 4 10
+Deduct Points (7 at 15291) 2 10
+Soldier 7: Get new path
+Handling New gridNo for 7: Old STANDING, New RUN
+Deduct Points (7 at 15291) 2 15
+Deduct Points (7 at 15291) 1 0
+Deduct Points (7 at 15130) 2 10
+Deduct Points (20 at 9879) 0 -1000
+Deduct Points (21 at 7943) 0 -2000
+Deduct Points (22 at 7459) 0 -1400
+Deduct Points (25 at 9662) 0 -1000
+Deduct Points (26 at 10455) 0 -1000
+Deduct Points (27 at 12218) 0 -2400
+Deduct Points (29 at 11778) 0 0
+Deduct Points (30 at 15916) 0 0
+Deduct Points (37 at 10660) 0 -3200
+Giving control to 30
+30 does TOSS PROJECTILE (a.d. 14969) in 15916 with 23 APs left
+30 does TOSS PROJECTILE (a.d. 14969) at time 130042060
+Deduct Points (30 at 15916) 2 10
+Deduct Points (30 at 15916) 14 0
+Incrementing Attack: Explosion gone off, COunt now 2
+@@@@@@@ Reducing attacker busy count..., PHYSICS OBJECT DONE effect gone off
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 1
+Incrementing Attack: Explosion dishing out damage, Count now 2
+!!!!!!! Person got hit, attack count now 3
+!!!!!!! Ending attack, attack count now 2
+!!!!!!! Tried to free up attacker, attack count now 2
+Deduct Points (7 at 15130) 0 5565
+Deduct Points (7 at 15130) 4 250
+@@@@@@@ Reducing attacker busy count..., EXPLOSION effect gone off
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 1
+@@@@@@@ Releasesoldierattacker, code 497 = check for death
+@@@@@@@ Freeing up attacker of 7 (attacker is 30) - releasesoldierattacker num to free is 1
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 14969/0, type 9 volume 13
+Event Pump: Noise from 7 at 15130/0, type 7 volume 2
+Event Pump: Noise from 156 at 14969/0, type 6 volume 0
+Soldier Ani: unconscious hit sequence needed for animation 62
+30 does CHG STANCE (a.d. 3) in 15916 with 7 APs left
+30 does CHG STANCE (a.d. 3) at time 130047210
+Deduct Points (30 at 15916) 2 10
+30 does END TURN (a.d. 0) in 15916 with 5 APs left
+30 does END TURN (a.d. 0) at time 130047680
+Ending control for 30
+Giving control to 20
+Ending turn for 20 because doing no-action
+Ending control for 20
+Giving control to 21
+Ending turn for 21 because doing no-action
+Ending control for 21
+Giving control to 22
+22 does SEEK FRIEND (a.d. 6969) in 7459 with 25 APs left
+22 does SEEK FRIEND (a.d. 6969) at time 130047780
+Soldier 22: Get new path
+Deduct Points (22 at 7459) 2 10
+Handling New gridNo for 22: Old BIGMERC CROUCH TRANS OUTOF, New RUN
+Deduct Points (22 at 7459) 1 15
+Deduct Points (22 at 7459) 1 0
+Deduct Points (22 at 7458) 1 15
+Deduct Points (22 at 7457) 1 15
+Deduct Points (22 at 7456) 2 15
+Deduct Points (22 at 7295) 1 15
+Deduct Points (22 at 7294) 1 15
+Deduct Points (22 at 7293) 2 15
+Deduct Points (22 at 7132) 1 15
+Deduct Points (22 at 7131) 2 15
+Deduct Points (22 at 6970) 1 15
+22 does SEEK OPPONENT (a.d. 7131) in 6969 with 9 APs left
+22 does SEEK OPPONENT (a.d. 7131) at time 130049340
+Soldier 22: Get new path
+Handling New gridNo for 22: Old STANDING, New RUN
+Deduct Points (22 at 6969) 1 15
+Deduct Points (22 at 6969) 1 0
+Deduct Points (22 at 6970) 2 15
+Ending turn for 22 because doing no-action
+Ending control for 22
+Giving control to 25
+Ending turn for 25 because doing no-action
+Ending control for 25
+Giving control to 26
+Ending turn for 26 because doing no-action
+Ending control for 26
+Giving control to 27
+27 does TAKE COVER (a.d. 12536) in 12218 with 25 APs left
+27 does TAKE COVER (a.d. 12536) at time 130049750
+Soldier 27: Get new path
+Handling New gridNo for 27: Old STANDING, New RUN
+Deduct Points (27 at 12218) 2 15
+Deduct Points (27 at 12218) 1 0
+Deduct Points (27 at 12377) 2 15
+27 does CHG STANCE (a.d. 3) in 12536 with 20 APs left
+27 does CHG STANCE (a.d. 3) at time 130050200
+Deduct Points (27 at 12536) 2 10
+Ending turn for 27 because doing no-action
+Ending control for 27
+Giving control to 29
+29 does TAKE COVER (a.d. 11618) in 11778 with 24 APs left
+29 does TAKE COVER (a.d. 11618) at time 130050450
+Soldier 29: Get new path
+Deduct Points (29 at 11778) 2 10
+Handling New gridNo for 29: Old KNEEL UP, New RUN
+Deduct Points (29 at 11778) 1 15
+Deduct Points (29 at 11778) 1 0
+29 does SEEK OPPONENT (a.d. 11777) in 11618 with 20 APs left
+29 does SEEK OPPONENT (a.d. 11777) at time 130050760
+Soldier 29: Get new path
+Deduct Points (29 at 11618) 2 10
+Handling New gridNo for 29: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (29 at 11618) 4 10
+29 does TAKE COVER (a.d. 11778) in 11777 with 14 APs left
+29 does TAKE COVER (a.d. 11778) at time 130051290
+Soldier 29: Get new path
+Deduct Points (29 at 11777) 2 10
+Handling New gridNo for 29: Old KNEEL UP, New RUN
+Deduct Points (29 at 11777) 1 15
+Deduct Points (29 at 11777) 1 0
+29 does TAKE COVER (a.d. 11618) in 11778 with 10 APs left
+29 does TAKE COVER (a.d. 11618) at time 130051670
+Soldier 29: Get new path
+Deduct Points (29 at 11778) 2 10
+Handling New gridNo for 29: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (29 at 11778) 3 10
+Ending turn for 29 because doing no-action
+Ending control for 29
+Giving control to 37
+37 does TAKE COVER (a.d. 10661) in 10660 with 25 APs left
+37 does TAKE COVER (a.d. 10661) at time 130052140
+Soldier 37: Get new path
+Deduct Points (37 at 10660) 2 10
+Handling New gridNo for 37: Old KNEEL UP, New RUN
+Deduct Points (37 at 10660) 1 15
+Deduct Points (37 at 10660) 1 0
+37 does TAKE COVER (a.d. 10660) in 10661 with 21 APs left
+37 does TAKE COVER (a.d. 10660) at time 130052530
+Soldier 37: Get new path
+Deduct Points (37 at 10661) 2 10
+Handling New gridNo for 37: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (37 at 10661) 3 10
+37 does TAKE COVER (a.d. 10661) in 10660 with 16 APs left
+37 does TAKE COVER (a.d. 10661) at time 130053000
+37 in movement loop, aborting turn
+Ending control for 37
+Ending AI turn
+
+Deduct Points (0 at 14987) 0 -1000
+Deduct Points (1 at 12918) 0 -1552
+Deduct Points (2 at 13237) 0 -1000
+Deduct Points (3 at 25601) 0 -1068
+Deduct Points (4 at 15150) 0 -1000
+Deduct Points (5 at 15296) 0 0
+Deduct Points (6 at 14361) 0 -1000
+Deduct Points (7 at 15291) 0 0
+Deduct Points (8 at 25601) 0 -1521
+Deduct Points (9 at 25601) 0 -810
+Deduct Points (10 at 25601) 0 -480
+Deduct Points (11 at 25601) 0 -1180
+Deduct Points (12 at 15935) 0 -1000
+Deduct Points (13 at 16096) 0 -1000
+Deduct Points (14 at 25601) 0 -1400
+Music New Mode -1 4
+StartMusicBasedOnMode() -1 4
+Deduct Points (7 at 15291) 2 10
+Deduct Points (7 at 15291) 2 10
+Soldier 7: Get new path
+Handling New gridNo for 7: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (7 at 15291) 4 10
+Deduct Points (7 at 15452) 4 10
+HandleGotoNewGridNo() Failed: No APs 4 3
+NO AP TO FINISH MOVE for 7 (3 APs left)
+Deduct Points (20 at 9879) 0 -1000
+Deduct Points (21 at 7943) 0 -1000
+Deduct Points (22 at 7131) 0 0
+Deduct Points (25 at 9662) 0 -1000
+Deduct Points (26 at 10455) 0 -1000
+Deduct Points (27 at 12536) 0 -2400
+Deduct Points (29 at 11618) 0 0
+Deduct Points (30 at 15916) 0 0
+Deduct Points (37 at 10660) 0 -2800
+Giving control to 30
+30 does CHG FACING (a.d. 2) in 15916 with 25 APs left
+30 does CHG FACING (a.d. 2) at time 130093760
+Event Pump: SetDesiredDirection: Dir( 2 )
+Deduct Points (30 at 15916) 2 0
+30 does CHG STANCE (a.d. 1) in 15916 with 23 APs left
+30 does CHG STANCE (a.d. 1) at time 130094140
+Deduct Points (30 at 15916) 2 10
+30 does FIRE GUN (a.d. 15613) in 15916 with 21 APs left
+30 does FIRE GUN (a.d. 15613) at time 130094340
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+Deduct Points (30 at 15916) 2 0
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (30 at 15916) 11 0
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 )
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Ending bullet, bullets left 0
+!!!!!!! Person got hit, attack count now 2
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Tried to free up attacker, attack count now 1
+Deduct Points (7 at 15613) 0 502
+@@@@@@@ Releasesoldierattacker, normal hit animation ended NEW: CROUCHED ( 3 ) OLD: GENERIC HIT CROUCH ( 43 )
+@@@@@@@ Freeing up attacker of 7 (attacker is 30) - releasesoldierattacker num to free is 1
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 15916/0, type 5 volume 77
+Event Pump: Noise from 30 at 15611/0, type 4 volume 8
+Event Pump: Noise from 30 at 15613/0, type 4 volume 8
+Event Pump: Noise from 7 at 15613/0, type 7 volume 1
+30 does FIRE GUN (a.d. 15613) in 15916 with 8 APs left
+30 does FIRE GUN (a.d. 15613) at time 130095790
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (30 at 15916) 8 0
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 )
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Ending bullet, bullets left 0
+!!!!!!! Person got hit, attack count now 2
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Tried to free up attacker, attack count now 1
+Deduct Points (7 at 15613) 1 448
+@@@@@@@ Releasesoldierattacker, normal hit animation ended NEW: CROUCHED ( 3 ) OLD: GENERIC HIT CROUCH ( 43 )
+@@@@@@@ Freeing up attacker of 7 (attacker is 30) - releasesoldierattacker num to free is 1
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 15916/0, type 5 volume 77
+Event Pump: Noise from 30 at 15613/0, type 4 volume 8
+Event Pump: Noise from 7 at 15613/0, type 7 volume 1
+Ending turn for 30 because doing no-action
+Ending control for 30
+Giving control to 20
+Ending turn for 20 because doing no-action
+Ending control for 20
+Giving control to 21
+Ending turn for 21 because doing no-action
+Ending control for 21
+Giving control to 22
+22 does SEEK OPPONENT (a.d. 7456) in 7131 with 25 APs left
+22 does SEEK OPPONENT (a.d. 7456) at time 130097320
+Soldier 22: Get new path
+Handling New gridNo for 22: Old STANDING, New RUN
+Deduct Points (22 at 7131) 1 15
+Deduct Points (22 at 7131) 1 0
+Deduct Points (22 at 7132) 2 15
+Deduct Points (22 at 7293) 1 15
+Deduct Points (22 at 7294) 1 15
+Deduct Points (22 at 7295) 2 15
+Ending turn for 22 because doing no-action
+Ending control for 22
+Giving control to 25
+Ending turn for 25 because doing no-action
+Ending control for 25
+Giving control to 26
+Ending turn for 26 because doing no-action
+Ending control for 26
+Giving control to 27
+27 does SEEK FRIEND (a.d. 12218) in 12536 with 25 APs left
+27 does SEEK FRIEND (a.d. 12218) at time 130098480
+Soldier 27: Get new path
+Handling New gridNo for 27: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (27 at 12536) 4 10
+Deduct Points (27 at 12377) 4 10
+27 does TAKE COVER (a.d. 12538) in 12218 with 17 APs left
+27 does TAKE COVER (a.d. 12538) at time 130099230
+Soldier 27: Get new path
+Handling New gridNo for 27: Old SWAT TO CROUCH, New CROUCH TO SWAT
+Deduct Points (27 at 12218) 3 10
+Deduct Points (27 at 12378) 3 10
+Ending turn for 27 because doing no-action
+Ending control for 27
+Giving control to 29
+29 does SEEK OPPONENT (a.d. 11777) in 11618 with 25 APs left
+29 does SEEK OPPONENT (a.d. 11777) at time 130099780
+Soldier 29: Get new path
+Deduct Points (29 at 11618) 2 10
+Handling New gridNo for 29: Old KNEEL UP, New RUN
+Deduct Points (29 at 11618) 2 15
+Deduct Points (29 at 11618) 1 0
+29 does TAKE COVER (a.d. 11778) in 11777 with 20 APs left
+29 does TAKE COVER (a.d. 11778) at time 130100400
+Soldier 29: Get new path
+Handling New gridNo for 29: Old STANDING, New RUN
+Deduct Points (29 at 11777) 1 15
+Deduct Points (29 at 11777) 1 0
+29 does TAKE COVER (a.d. 11619) in 11778 with 18 APs left
+29 does TAKE COVER (a.d. 11619) at time 130100750
+Soldier 29: Get new path
+Deduct Points (29 at 11778) 2 10
+Handling New gridNo for 29: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (29 at 11778) 4 10
+29 does SEEK OPPONENT (a.d. 11778) in 11619 with 12 APs left
+29 does SEEK OPPONENT (a.d. 11778) at time 130101390
+Soldier 29: Get new path
+Handling New gridNo for 29: Old SWAT TO CROUCH, New CROUCH TO SWAT
+Deduct Points (29 at 11619) 4 10
+29 does TAKE COVER (a.d. 11619) in 11778 with 8 APs left
+29 does TAKE COVER (a.d. 11619) at time 130101860
+29 in movement loop, aborting turn
+Ending control for 29
+Giving control to 37
+37 does TAKE COVER (a.d. 10662) in 10660 with 25 APs left
+37 does TAKE COVER (a.d. 10662) at time 130101920
+Soldier 37: Get new path
+Deduct Points (37 at 10660) 2 10
+Handling New gridNo for 37: Old KNEEL UP, New RUN
+Deduct Points (37 at 10660) 1 15
+Deduct Points (37 at 10660) 1 0
+Deduct Points (37 at 10661) 1 15
+37 does TAKE COVER (a.d. 10661) in 10662 with 20 APs left
+37 does TAKE COVER (a.d. 10661) at time 130102590
+Soldier 37: Get new path
+Deduct Points (37 at 10662) 2 10
+Handling New gridNo for 37: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (37 at 10662) 3 10
+37 does TAKE COVER (a.d. 10662) in 10661 with 15 APs left
+37 does TAKE COVER (a.d. 10662) at time 130103230
+Soldier 37: Get new path
+Deduct Points (37 at 10661) 2 10
+Handling New gridNo for 37: Old KNEEL UP, New RUN
+Deduct Points (37 at 10661) 1 15
+Deduct Points (37 at 10661) 1 0
+37 does TAKE COVER (a.d. 10661) in 10662 with 11 APs left
+37 does TAKE COVER (a.d. 10661) at time 130103710
+37 in movement loop, aborting turn
+Ending control for 37
+Ending AI turn
+
+Deduct Points (5 at 15296) 11 -550
+Deduct Points (0 at 14987) 0 -1000
+Deduct Points (1 at 12918) 0 -1552
+Deduct Points (2 at 13237) 0 -1000
+Deduct Points (3 at 25601) 0 -1068
+Deduct Points (4 at 15150) 0 -1000
+Deduct Points (5 at 15296) 0 0
+Deduct Points (6 at 14361) 0 -1000
+Deduct Points (7 at 15613) 0 0
+Deduct Points (8 at 25601) 0 -1521
+Deduct Points (9 at 25601) 0 -810
+Deduct Points (10 at 25601) 0 -480
+Deduct Points (11 at 25601) 0 -1180
+Deduct Points (12 at 15935) 0 -1000
+Deduct Points (13 at 16096) 0 -1000
+Deduct Points (14 at 25601) 0 -1400
+Soldier 7: Get new path
+Handling New gridNo for 7: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (7 at 15613) 3 10
+Deduct Points (7 at 15614) 3 10
+Deduct Points (7 at 15615) 3 10
+Deduct Points (7 at 15616) 3 10
+Deduct Points (20 at 9879) 0 -1000
+Deduct Points (21 at 7943) 0 -1000
+Deduct Points (22 at 7456) 0 -2600
+Deduct Points (25 at 9662) 0 -1000
+Deduct Points (26 at 10455) 0 -1000
+Deduct Points (27 at 12538) 0 -3800
+Deduct Points (29 at 11778) 0 -4400
+Deduct Points (30 at 15916) 0 0
+Deduct Points (37 at 10662) 0 -3800
+Giving control to 20
+Ending turn for 20 because doing no-action
+Ending control for 20
+Giving control to 21
+Ending turn for 21 because doing no-action
+Ending control for 21
+Giving control to 22
+Ending turn for 22 because doing no-action
+Ending control for 22
+Giving control to 25
+Ending turn for 25 because doing no-action
+Ending control for 25
+Giving control to 26
+Ending turn for 26 because doing no-action
+Ending control for 26
+Giving control to 27
+Ending turn for 27 because doing no-action
+Ending control for 27
+Giving control to 29
+29 does SEEK FRIEND (a.d. 11301) in 11778 with 25 APs left
+29 does SEEK FRIEND (a.d. 11301) at time 130107010
+Soldier 29: Get new path
+Handling New gridNo for 29: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (29 at 11778) 4 10
+Deduct Points (29 at 11619) 4 10
+Deduct Points (29 at 11460) 4 10
+29 does TAKE COVER (a.d. 11778) in 11301 with 13 APs left
+29 does TAKE COVER (a.d. 11778) at time 130108710
+Soldier 29: Get new path
+Handling New gridNo for 29: Old SWAT TO CROUCH, New CROUCH TO SWAT
+Deduct Points (29 at 11301) 4 10
+Deduct Points (29 at 11460) 4 10
+Deduct Points (29 at 11619) 4 10
+Ending turn for 29 because doing no-action
+Ending control for 29
+Giving control to 30
+30 does TOSS PROJECTILE (a.d. 15615) in 15916 with 22 APs left
+30 does TOSS PROJECTILE (a.d. 15615) at time 130110260
+Deduct Points (30 at 15916) 2 10
+Deduct Points (30 at 15916) 2 10
+Deduct Points (30 at 15916) 14 0
+Incrementing Attack: Explosion gone off, COunt now 2
+@@@@@@@ Reducing attacker busy count..., PHYSICS OBJECT DONE effect gone off
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 1
+Incrementing Attack: Explosion dishing out damage, Count now 2
+!!!!!!! Person got hit, attack count now 3
+!!!!!!! Ending attack, attack count now 2
+!!!!!!! Tried to free up attacker, attack count now 2
+Deduct Points (5 at 15296) 1 745
+Deduct Points (5 at 15296) 4 250
+Incrementing Attack: Explosion dishing out damage, Count now 3
+!!!!!!! Person got hit, attack count now 4
+!!!!!!! Ending attack, attack count now 3
+!!!!!!! Tried to free up attacker, attack count now 3
+Deduct Points (7 at 15617) 2 598
+Deduct Points (7 at 15617) 4 250
+Incrementing Attack: Explosion dishing out damage, Count now 4
+!!!!!!! Person got hit, attack count now 5
+!!!!!!! Ending attack, attack count now 4
+!!!!!!! Tried to free up attacker, attack count now 4
+Deduct Points (13 at 16096) 1 313
+Deduct Points (13 at 16096) 4 250
+Incrementing Attack: Explosion dishing out damage, Count now 5
+!!!!!!! Person got hit, attack count now 6
+!!!!!!! Ending attack, attack count now 5
+!!!!!!! Tried to free up attacker, attack count now 5
+Deduct Points (12 at 15935) 0 598
+Audio Gap List Deleted
+Audio Gap List Deleted
+Audio Gap List Deleted
+@@@@@@@ Releasesoldierattacker, code 497 = check for death
+@@@@@@@ Freeing up attacker of 5 (attacker is 30) - releasesoldierattacker num to free is 1
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 4
+Soldier Ani: unconscious hit sequence needed for animation 62
+@@@@@@@ Releasesoldierattacker, code 497 = check for death
+@@@@@@@ Freeing up attacker of 7 (attacker is 30) - releasesoldierattacker num to free is 1
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 3
+Soldier Ani: unconscious hit sequence needed for animation 62
+@@@@@@@ Releasesoldierattacker, code 497 = check for death
+@@@@@@@ Freeing up attacker of 13 (attacker is 30) - releasesoldierattacker num to free is 1
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 2
+Soldier Ani: unconscious hit sequence needed for animation 62
+@@@@@@@ Releasesoldierattacker, code 497 = check for death
+@@@@@@@ Freeing up attacker of 12 (attacker is 30) - releasesoldierattacker num to free is 1
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 1
+Soldier Ani: unconscious hit sequence needed for animation 66
+@@@@@@@ Reducing attacker busy count..., EXPLOSION effect gone off
+>>Target ptr is null!
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 15615/0, type 9 volume 11
+Event Pump: Noise from 5 at 15296/0, type 7 volume 1
+Event Pump: Noise from 7 at 15617/0, type 7 volume 1
+Event Pump: Noise from 13 at 16096/0, type 7 volume 1
+Event Pump: Noise from 12 at 15935/0, type 7 volume 1
+Event Pump: Noise from 156 at 15615/0, type 6 volume 25
+Event Pump: Noise from 13 at 16256/0, type 1 volume 4
+30 does CHG STANCE (a.d. 3) in 15916 with 4 APs left
+30 does CHG STANCE (a.d. 3) at time 130119860
+Deduct Points (30 at 15916) 2 10
+Ending turn for 30 because doing no-action
+Ending control for 30
+Giving control to 37
+37 does TAKE COVER (a.d. 10661) in 10662 with 25 APs left
+37 does TAKE COVER (a.d. 10661) at time 130120320
+Soldier 37: Get new path
+Deduct Points (37 at 10662) 2 10
+Handling New gridNo for 37: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (37 at 10662) 3 10
+37 does TAKE COVER (a.d. 10660) in 10661 with 20 APs left
+37 does TAKE COVER (a.d. 10660) at time 130121260
+Soldier 37: Get new path
+Deduct Points (37 at 10661) 2 10
+Handling New gridNo for 37: Old KNEEL UP, New RUN
+Deduct Points (37 at 10661) 1 15
+Deduct Points (37 at 10661) 1 0
+37 does TAKE COVER (a.d. 10661) in 10660 with 16 APs left
+37 does TAKE COVER (a.d. 10661) at time 130122010
+Soldier 37: Get new path
+Deduct Points (37 at 10660) 2 10
+Handling New gridNo for 37: Old KNEEL DOWN, New CROUCH TO SWAT
+Deduct Points (37 at 10660) 3 10
+37 does TAKE COVER (a.d. 10660) in 10661 with 11 APs left
+37 does TAKE COVER (a.d. 10660) at time 130122930
+37 in movement loop, aborting turn
+Ending control for 37
+Ending AI turn
+
+Deduct Points (0 at 14987) 0 -1000
+Deduct Points (1 at 12918) 0 -1552
+Deduct Points (2 at 13237) 0 -1000
+Deduct Points (3 at 25601) 0 -1068
+Deduct Points (4 at 15150) 0 -1000
+Deduct Points (5 at 15137) 0 0
+Deduct Points (6 at 14361) 0 -1000
+Deduct Points (7 at 15618) 0 0
+Deduct Points (8 at 25601) 0 -1521
+Deduct Points (9 at 25601) 0 -810
+Deduct Points (10 at 25601) 0 -480
+Deduct Points (11 at 25601) 0 -1180
+Deduct Points (12 at 15935) 0 -1000
+Deduct Points (12 at 15935) 2 10
+Deduct Points (13 at 16256) 0 -2000
+Deduct Points (14 at 25601) 0 -1400
+Deduct Points (13 at 16256) 2 10
+Deduct Points (13 at 16256) 2 10
+Soldier 7: Get new path
+Deduct Points (7 at 15618) 2 10
+Handling New gridNo for 7: Old PRONE UP, New CROUCH TO SWAT
+HandleGotoNewGridNo() Failed: Out of Breath
+Deduct Points (7 at 15618) 2 125
+@@@@@@@ Releasesoldierattacker, code 497 = check for death
+Soldier Ani: unconscious hit sequence needed for animation 65
+Audio Gap List Deleted
+Deduct Points (13 at 16256) 2 10
+Soldier 13: Get new path
+Handling New gridNo for 13: Old STANDING, New RUN
+Deduct Points (13 at 16256) 2 15
+Deduct Points (13 at 16256) 1 0
+Deduct Points (13 at 16415) 1 15
+Deduct Points (13 at 16414) 1 15
+Deduct Points (13 at 16413) 1 15
+Audio Gap List Deleted
+Soldier 13: Get new path
+Handling New gridNo for 13: Old RUN, New RUN
+Deduct Points (13 at 16412) 1 15
+Deduct Points (13 at 16252) 1 15
+Deduct Points (13 at 16092) 2 10
+Deduct Points (20 at 9879) 0 -1000
+Deduct Points (21 at 7943) 0 -1000
+Deduct Points (22 at 7456) 0 -1000
+Deduct Points (25 at 9662) 0 -1000
+Deduct Points (26 at 10455) 0 -1000
+Deduct Points (27 at 12538) 0 -1000
+Deduct Points (29 at 11778) 0 0
+Deduct Points (30 at 15916) 0 0
+Deduct Points (37 at 10661) 0 -3800
+Giving control to 20
+Ending turn for 20 because doing no-action
+Ending control for 20
+Giving control to 21
+Ending turn for 21 because doing no-action
+Ending control for 21
+Giving control to 22
+Ending turn for 22 because doing no-action
+Ending control for 22
+Giving control to 25
+25 does RED ALERT (a.d. 25601) in 9662 with 25 APs left
+25 does RED ALERT (a.d. 25601) at time 130140200
+Deduct Points (25 at 9662) 5 0
+Ending turn for 25 because doing no-action
+Ending control for 25
+Giving control to 26
+Ending turn for 26 because doing no-action
+Ending control for 26
+Giving control to 27
+Ending turn for 27 because doing no-action
+Ending control for 27
+Giving control to 29
+29 does SEEK FRIEND (a.d. 11451) in 11778 with 23 APs left
+29 does SEEK FRIEND (a.d. 11451) at time 130140320
+Soldier 29: Get new path
+Handling New gridNo for 29: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (29 at 11778) 4 10
+Deduct Points (29 at 11617) 4 10
+Deduct Points (29 at 11456) 3 10
+Deduct Points (29 at 11455) 3 10
+Deduct Points (29 at 11454) 3 10
+Deduct Points (29 at 11453) 3 10
+Deduct Points (29 at 11452) 3 10
+Ending turn for 29 because doing no-action
+Ending control for 29
+Giving control to 30
+30 does SEEK OPPONENT (a.d. 16080) in 15916 with 24 APs left
+30 does SEEK OPPONENT (a.d. 16080) at time 130142760
+Soldier 30: Get new path
+Deduct Points (30 at 15916) 2 10
+Handling New gridNo for 30: Old BIGMERC CROUCH TRANS OUTOF, New RUN
+Deduct Points (30 at 15916) 2 15
+Deduct Points (30 at 15916) 1 0
+Deduct Points (30 at 15757) 1 15
+30 does CHG STANCE (a.d. 3) in 15758 with 18 APs left
+30 does CHG STANCE (a.d. 3) at time 130143680
+Deduct Points (30 at 15758) 2 10
+30 does FIRE GUN (a.d. 16092) in 15758 with 16 APs left
+30 does FIRE GUN (a.d. 16092) at time 130144290
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+Deduct Points (30 at 15758) 2 0
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) CROUCH ( 28 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (30 at 15758) 11 0
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) CROUCH ( 28 )
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Ending bullet, bullets left 0
+@@@@@@@ Freeing up attacker - bullet hit same structure twice
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 15758/0, type 5 volume 77
+Event Pump: Noise from 30 at 16095/0, type 4 volume 8
+Ending turn for 30 because doing no-action
+Ending control for 30
+Giving control to 37
+37 does TAKE COVER (a.d. 10662) in 10661 with 25 APs left
+37 does TAKE COVER (a.d. 10662) at time 130146420
+Soldier 37: Get new path
+Deduct Points (37 at 10661) 2 10
+Handling New gridNo for 37: Old KNEEL UP, New RUN
+Deduct Points (37 at 10661) 1 15
+Deduct Points (37 at 10661) 1 0
+37 does TAKE COVER (a.d. 10661) in 10662 with 21 APs left
+37 does TAKE COVER (a.d. 10661) at time 130147110
+Soldier 37: Get new path
+Handling New gridNo for 37: Old STANDING, New RUN
+Deduct Points (37 at 10662) 1 15
+Deduct Points (37 at 10662) 1 0
+37 does TAKE COVER (a.d. 10662) in 10661 with 19 APs left
+37 does TAKE COVER (a.d. 10662) at time 130147530
+37 in movement loop, aborting turn
+Ending control for 37
+Ending AI turn
+
+Deduct Points (0 at 14987) 0 -1000
+Deduct Points (1 at 12918) 0 -1552
+Deduct Points (2 at 13237) 0 -1000
+Deduct Points (3 at 25601) 0 -1068
+Deduct Points (4 at 15150) 0 -1000
+Deduct Points (6 at 14361) 0 -1000
+Deduct Points (7 at 15618) 0 0
+Deduct Points (8 at 25601) 0 -1521
+Deduct Points (9 at 25601) 0 -810
+Deduct Points (10 at 25601) 0 -480
+Deduct Points (11 at 25601) 0 -1180
+Deduct Points (12 at 15935) 0 -1400
+Deduct Points (13 at 16092) 0 -4200
+Deduct Points (14 at 25601) 0 -1400
+Audio Gap List Deleted
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+Deduct Points (13 at 16092) 2 0
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) CROUCH ( 28 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (13 at 16092) 13 0
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) CROUCH ( 28 )
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Ending bullet, bullets left 0
+!!!!!!! Person got hit, attack count now 2
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Tried to free up attacker, attack count now 1
+Deduct Points (30 at 15758) 5 1909
+Deduct Points (30 at 15758) 2 0
+@@@@@@@ Releasesoldierattacker, normal hit animation ended NEW: READY (R) CROUCH ( 26 ) OLD: GENERIC HIT CROUCH ( 43 )
+@@@@@@@ Freeing up attacker of 30 (attacker is 13) - releasesoldierattacker num to free is 1
+!!!!!!! Ending attack, attack count now 0
+Event Pump: Noise from 13 at 16092/0, type 5 volume 80
+Event Pump: Noise from 13 at 15760/0, type 4 volume 8
+Event Pump: Noise from 13 at 15758/0, type 4 volume 8
+Event Pump: Noise from 30 at 15758/0, type 7 volume 2
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) CROUCH ( 28 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (13 at 16092) 10 0
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) CROUCH ( 28 )
+!!!!!!! Ending attack, attack count now 1
+Audio Gap List Deleted
+!!!!!!! Ending bullet, bullets left 0
+@@@@@@@ Freeing up attacker - bullet hit same structure twice
+!!!!!!! Ending attack, attack count now 0
+Event Pump: Noise from 13 at 16092/0, type 5 volume 80
+Event Pump: Noise from 13 at 15411/0, type 4 volume 8
+Event Pump: Noise from 13 at 14737/0, type 4 volume 8
+Deduct Points (20 at 9879) 0 -1000
+Deduct Points (21 at 7943) 0 -1000
+Deduct Points (22 at 7456) 0 -1000
+Deduct Points (25 at 9662) 0 -2000
+Deduct Points (26 at 10455) 0 -1000
+Deduct Points (27 at 12538) 0 -1000
+Deduct Points (29 at 11451) 0 0
+Deduct Points (30 at 15758) 0 0
+Deduct Points (37 at 10661) 0 -2200
+Giving control to 30
+30 does CHG STANCE (a.d. 1) in 15758 with 17 APs left
+30 does CHG STANCE (a.d. 1) at time 130163860
+Deduct Points (30 at 15758) 2 10
+30 does FIRE GUN (a.d. 16092) in 15758 with 15 APs left
+30 does FIRE GUN (a.d. 16092) at time 130164450
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+Deduct Points (30 at 15758) 2 0
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (30 at 15758) 7 0
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 )
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Ending bullet, bullets left 0
+!!!!!!! Person got hit, attack count now 2
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Tried to free up attacker, attack count now 1
+Deduct Points (13 at 16092) 0 1268
+Deduct Points (13 at 16092) 5 0
+@@@@@@@ Releasesoldierattacker, normal hit animation ended NEW: READY (R) CROUCH ( 26 ) OLD: GENERIC HIT CROUCH ( 43 )
+@@@@@@@ Freeing up attacker of 13 (attacker is 30) - releasesoldierattacker num to free is 1
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 15758/0, type 5 volume 77
+Event Pump: Noise from 30 at 16091/0, type 4 volume 8
+Event Pump: Noise from 30 at 16092/0, type 4 volume 8
+Event Pump: Noise from 13 at 16092/0, type 7 volume 1
+30 does FIRE GUN (a.d. 16092) in 15758 with 6 APs left
+30 does FIRE GUN (a.d. 16092) at time 130166530
+Event Pump: Begin Fire Weapon
+!!!!!!! Starting attack, attack count now 1
+!!!!!!! Starting attack, bullets left 1
+!!!!! Incrementing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 ) : Count now 2
+Event Pump: FireWeapon
+Deduct Points (30 at 15758) 6 0
+Audio Gap List Deleted
+@@@@@@@ Reducing attacker busy count..., CODE FROM ANIMATION SHOOT (R) PRONE ( 20 )
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Ending bullet, bullets left 0
+!!!!!!! Person got hit, attack count now 2
+Handling morale event 5 for Гастон at X=9, Y=12, Z=0
+!!!!!!! Ending attack, attack count now 1
+!!!!!!! Tried to free up attacker, attack count now 1
+Deduct Points (13 at 16092) 12 1308
+Deduct Points (13 at 16092) 5 0
+@@@@@@@ Releasesoldierattacker, normal hit animation ended NEW: READY (R) CROUCH ( 26 ) OLD: GENERIC HIT CROUCH ( 43 )
+@@@@@@@ Freeing up attacker of 13 (attacker is 30) - releasesoldierattacker num to free is 1
+!!!!!!! Ending attack, attack count now 0
+>>Not to enter combat from this attack
+Event Pump: Noise from 30 at 15758/0, type 5 volume 77
+Event Pump: Noise from 30 at 16092/0, type 4 volume 8
+Event Pump: Noise from 13 at 16092/0, type 7 volume 4
+Ending turn for 30 because doing no-action
+Ending control for 30
+Giving control to 20
+20 does RED ALERT (a.d. 25601) in 9879 with 25 APs left
+20 does RED ALERT (a.d. 25601) at time 130168210
+Deduct Points (20 at 9879) 5 0
+Ending turn for 20 because doing no-action
+Ending control for 20
+Giving control to 21
+Ending turn for 21 because doing no-action
+Ending control for 21
+Giving control to 22
+Ending turn for 22 because doing no-action
+Ending control for 22
+Giving control to 25
+Ending turn for 25 because doing no-action
+Ending control for 25
+Giving control to 26
+Ending turn for 26 because doing no-action
+Ending control for 26
+Giving control to 27
+Ending turn for 27 because doing no-action
+Ending control for 27
+Giving control to 29
+29 does SEEK OPPONENT (a.d. 11771) in 11451 with 22 APs left
+29 does SEEK OPPONENT (a.d. 11771) at time 130170140
+Soldier 29: Get new path
+Handling New gridNo for 29: Old CROUCHED, New CROUCH TO SWAT
+Deduct Points (29 at 11451) 3 10
+{ 88388125 } Exiting Game [Line 748 in .\sgp.c]
+{ 88388781 } ShutDownFileDatabase( ): 2657 bytes of ram used for the Library #  0, path '',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388781 } ShutDownFileDatabase( ): 555 bytes of ram used for the Library #  1, path 'Ambient\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388796 } ShutDownFileDatabase( ): 20796 bytes of ram used for the Library #  2, path 'Anims\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388796 } ShutDownFileDatabase( ): 33934 bytes of ram used for the Library #  3, path 'battlesnds\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 6960 bytes of ram used for the Library #  4, path 'BigItems\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 1290 bytes of ram used for the Library #  5, path 'BinaryData\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 2014 bytes of ram used for the Library #  6, path 'cursors\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 8612 bytes of ram used for the Library #  7, path 'faces\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 1002 bytes of ram used for the Library #  8, path 'fonts\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 6268 bytes of ram used for the Library #  9, path 'Interface\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388843 } ShutDownFileDatabase( ): 8712 bytes of ram used for the Library # 10, path 'Laptop\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 852 bytes of ram used for the Library # 11, path 'campaigns\unfinished business\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 1792 bytes of ram used for the Library # 12, path 'MercEdt\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 1353 bytes of ram used for the Library # 14, path 'npc_speech\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 6909 bytes of ram used for the Library # 15, path 'npcdata\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 812 bytes of ram used for the Library # 16, path 'radarmaps\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 12839 bytes of ram used for the Library # 17, path 'sounds\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88388859 } ShutDownFileDatabase( ): 274759 bytes of ram used for the Library # 18, path 'Speech\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88390359 } ShutDownFileDatabase( ): 211872 bytes of ram used for the Library # 19, path 'tilesets\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88391484 } ShutDownFileDatabase( ): 1412 bytes of ram used for the Library # 20, path 'loadscreens\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]
+{ 88391484 } ShutDownFileDatabase( ): 2248 bytes of ram used for the Library # 22, path 'Editor\',  in the File Database System
+ [Line 1029 in .\LibraryDataBase.c]

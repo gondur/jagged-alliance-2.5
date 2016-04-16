@@ -1,0 +1,151 @@
+--------------------Configuration: Strategic - Win32 Debug--------------------
+Begining build with project "D:\JA2\build\Strategic\Strategic.dsp", at root.
+Active configuration is Win32 (x86) Static Library (based on Win32 (x86) Static Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\TileEngine" /I "\ja2\Build\Utils" /I "\ja2\build\TacticalAI" /I "\ja2\build\Communications" /I "\ja2\build\Tactical" /I "\ja2\build\Laptop" /I "\ja2\build\editor" /I "\ja2\build\tactical" /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "JA2" /FR"Debug/" /Fp"Debug/Strategic.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Browser Database Maker" with flags "/nologo /o"Debug/Strategic.bsc" "
+			"Library Manager" with flags "/nologo /out:"Debug\Strategic.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\TEMP\RSP8F3.tmp" with contents </nologo /MTd /W3 /GX /Z7 /Od /I "\Standard Gaming Platform" /I "\ja2\Build" /I "\ja2\Build\TileEngine" /I "\ja2\Build\Utils" /I "\ja2\build\TacticalAI" /I "\ja2\build\Communications" /I "\ja2\build\Tactical" /I "\ja2\build\Laptop" /I "\ja2\build\editor" /I "\ja2\build\tactical" /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "JA2" /FR"Debug/" /Fp"Debug/Strategic.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"D:\JA2\build\Strategic\AI Viewer.c"
+"D:\JA2\build\Strategic\Assignments.c"
+"D:\JA2\build\Strategic\Auto Resolve.c"
+"D:\JA2\build\Strategic\Campaign Init.c"
+"D:\JA2\build\Strategic\Creature Spreading.c"
+"D:\JA2\build\Strategic\Game Clock.c"
+"D:\JA2\build\Strategic\Game Event Hook.c"
+"D:\JA2\build\Strategic\Game Events.c"
+"D:\JA2\build\Strategic\Game Init.c"
+"D:\JA2\build\Strategic\Hourly Update.c"
+"D:\JA2\build\Strategic\Map Screen Helicopter.c"
+"D:\JA2\build\Strategic\Map Screen Interface Border.c"
+"D:\JA2\build\Strategic\Map Screen Interface Bottom.c"
+"D:\JA2\build\Strategic\Map Screen Interface Map Inventory.c"
+"D:\JA2\build\Strategic\Map Screen Interface Map.c"
+"D:\JA2\build\Strategic\Map Screen Interface TownMine Info.c"
+"D:\JA2\build\Strategic\Map Screen Interface.c"
+"D:\JA2\build\Strategic\mapscreen.c"
+"D:\JA2\build\Strategic\Meanwhile.c"
+"D:\JA2\build\Strategic\Merc Contract.c"
+"D:\JA2\build\Strategic\Player Command.c"
+"D:\JA2\build\Strategic\PreBattle Interface.c"
+"D:\JA2\build\Strategic\Queen Command.c"
+"D:\JA2\build\Strategic\Quest Debug System.c"
+"D:\JA2\build\Strategic\Quests.c"
+"D:\JA2\build\Strategic\QuestText.c"
+"D:\JA2\build\Strategic\Scheduling.c"
+"D:\JA2\build\Strategic\Strategic AI.c"
+"D:\JA2\build\Strategic\Strategic Event Handler.c"
+"D:\JA2\build\Strategic\Strategic Merc Handler.c"
+"D:\JA2\build\Strategic\Strategic Mines.c"
+"D:\JA2\build\Strategic\Strategic Movement Costs.c"
+"D:\JA2\build\Strategic\Strategic Movement.c"
+"D:\JA2\build\Strategic\Strategic Pathing.c"
+"D:\JA2\build\Strategic\Strategic Status.c"
+"D:\JA2\build\Strategic\Strategic Text.c"
+"D:\JA2\build\Strategic\Strategic Town Loyalty.c"
+"D:\JA2\build\Strategic\strategic town reputation.c"
+"D:\JA2\build\Strategic\Strategic Turns.c"
+"D:\JA2\build\Strategic\strategic.c"
+"D:\JA2\build\Strategic\strategicmap.c"
+"D:\JA2\build\Strategic\Town Militia.c"
+>
+Creating command line "cl.exe @C:\TEMP\RSP8F3.tmp" 
+Creating temp file "C:\TEMP\RSP8F4.tmp" with contents </nologo /out:"Debug\Strategic.lib" 
+".\Debug\AI Viewer.obj"
+.\Debug\Assignments.obj
+".\Debug\Auto Resolve.obj"
+".\Debug\Campaign Init.obj"
+".\Debug\Creature Spreading.obj"
+".\Debug\Game Clock.obj"
+".\Debug\Game Event Hook.obj"
+".\Debug\Game Events.obj"
+".\Debug\Game Init.obj"
+".\Debug\Hourly Update.obj"
+".\Debug\Map Screen Helicopter.obj"
+".\Debug\Map Screen Interface Border.obj"
+".\Debug\Map Screen Interface Bottom.obj"
+".\Debug\Map Screen Interface Map Inventory.obj"
+".\Debug\Map Screen Interface Map.obj"
+".\Debug\Map Screen Interface TownMine Info.obj"
+".\Debug\Map Screen Interface.obj"
+.\Debug\mapscreen.obj
+.\Debug\Meanwhile.obj
+".\Debug\Merc Contract.obj"
+".\Debug\Player Command.obj"
+".\Debug\PreBattle Interface.obj"
+".\Debug\Queen Command.obj"
+".\Debug\Quest Debug System.obj"
+.\Debug\Quests.obj
+.\Debug\QuestText.obj
+.\Debug\Scheduling.obj
+".\Debug\Strategic AI.obj"
+".\Debug\Strategic Event Handler.obj"
+".\Debug\Strategic Merc Handler.obj"
+".\Debug\Strategic Mines.obj"
+".\Debug\Strategic Movement Costs.obj"
+".\Debug\Strategic Movement.obj"
+".\Debug\Strategic Pathing.obj"
+".\Debug\Strategic Status.obj"
+".\Debug\Strategic Text.obj"
+".\Debug\Strategic Town Loyalty.obj"
+".\Debug\strategic town reputation.obj"
+".\Debug\Strategic Turns.obj"
+.\Debug\strategic.obj
+.\Debug\strategicmap.obj
+".\Debug\Town Militia.obj">
+Creating command line "link.exe -lib @C:\TEMP\RSP8F4.tmp" 
+Compiling...
+AI Viewer.c
+Assignments.c
+Auto Resolve.c
+Campaign Init.c
+Creature Spreading.c
+Game Clock.c
+Game Event Hook.c
+Game Events.c
+Game Init.c
+Hourly Update.c
+Map Screen Helicopter.c
+D:\JA2\build\Strategic\Map Screen Helicopter.c(1697) : warning C4033: 'HandleSAMSiteAttackOfHelicopterInSector' must return a value
+Map Screen Interface Border.c
+Map Screen Interface Bottom.c
+D:\JA2\build\Strategic\Map Screen Interface Bottom.c(209) : warning C4098: 'HandleLoadOfMapBottomGraphics' : 'void' function returning a value
+Map Screen Interface Map Inventory.c
+Map Screen Interface Map.c
+Map Screen Interface TownMine Info.c
+Map Screen Interface.c
+mapscreen.c
+Meanwhile.c
+Merc Contract.c
+Player Command.c
+PreBattle Interface.c
+D:\JA2\build\Strategic\PreBattle Interface.c(256) : warning C4013: 'HandleAnyOffDutyMercWhoAreInSectorUnderAttack' undefined; assuming extern returning int
+Queen Command.c
+Quest Debug System.c
+Quests.c
+QuestText.c
+Scheduling.c
+Strategic AI.c
+Strategic Event Handler.c
+Strategic Merc Handler.c
+Strategic Mines.c
+Strategic Movement Costs.c
+Strategic Movement.c
+Strategic Pathing.c
+Strategic Status.c
+Strategic Text.c
+Strategic Town Loyalty.c
+strategic town reputation.c
+Strategic Turns.c
+strategic.c
+strategicmap.c
+Town Militia.c
+Creating library...
+
+
+
+Strategic.lib - 0 error(s), 3 warning(s)
